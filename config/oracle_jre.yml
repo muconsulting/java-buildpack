@@ -21,7 +21,7 @@
 
 jre:
   version: 1.8.0_+
-  repository_root: ""
+  repository_root: "https://download.cfmsiapps.net/oracle-jdk/trusty/x86_64/"
 memory_calculator:
   version: 1.+
   repository_root: "{default.repository.root}/memory-calculator/{platform}/{architecture}"
